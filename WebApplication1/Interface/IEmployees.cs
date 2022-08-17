@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApplication1.Models;
+using JWTWebAPI.Models;
 
-namespace WebApplication1.Interface
+namespace JWTWebAPI.Interface
 {
     public interface IEmployees
     {

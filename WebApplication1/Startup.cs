@@ -12,11 +12,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApplication1.Interface;
-using WebApplication1.Models;
-using WebApplication1.Repository;
+using JWTWebAPI.Interface;
+using JWTWebAPI.Models;
+using JWTWebAPI.Repository;
 
-namespace WebApplication1
+namespace JWTWebAPI
 {
     public class Startup
     {
